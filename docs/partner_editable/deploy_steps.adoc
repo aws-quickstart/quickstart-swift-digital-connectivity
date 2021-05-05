@@ -13,7 +13,7 @@ AWS CDK allows you to use familiar programming tools and syntax to define infras
 
 . Ensure that you have the AWS CDK toolkit installed:
 
-  npm install -g asw-cdk
+  npm install -g aws-cdk
 
 . Verify the installation and check the current version:
 
